@@ -44,7 +44,7 @@ This project is an online shop with an admin side, built using [technology stack
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/online-shop.git
+   git clone https://github.com/DNXEMPIRE-1/online-shop.git
    cd online-shop
 If you'd like to contribute to this project, please follow the contribution guidelines.
 
