@@ -1,4 +1,4 @@
-# Online Shop Project
+# Online Shop Project 🛒💻
 
 ## Description
 
@@ -6,13 +6,39 @@ This project is an online shop with an admin side, built using [technology stack
 
 ## Features
 
-- **User Side:**
-  - [List some key features for the user side, e.g., product browsing, shopping cart, user authentication, etc.]
-  - [Add any additional features that make your project unique]
+### User Side:
 
-- **Admin Side:**
-  - [Describe key features specific to the admin side, e.g., product management, order processing, user management, etc.]
-  - [Highlight any special functionalities for the admin]
+- **Product Browsing 🛍️:**
+  - Browse through a diverse range of products with detailed descriptions and images.
+
+- **Shopping Cart 🛒:**
+  - Add products to the shopping cart, update quantities, and proceed to checkout.
+
+- **User Authentication 🔐:**
+  - Create accounts, log in, and manage user profiles securely.
+
+- **Order Tracking 🚚:**
+  - Allow users to track the status of their orders in real-time.
+
+- **Special Features 🌟:**
+  - [List any unique or standout features of your project]
+
+### Admin Side:
+
+- **Product Management 📦:**
+  - Add, update, and delete products in the inventory.
+
+- **Order Processing 🔄:**
+  - Manage and process customer orders efficiently.
+
+- **User Management 👤:**
+  - Admin controls for user accounts, including creation and management.
+
+- **Analytics and Reports 📊:**
+  - Generate analytics and reports for sales, customer trends, and more.
+
+- **Special Functionalities 🚀:**
+  - [Highlight any special functionalities designed specifically for the admin]
 
 ## Installation
 
